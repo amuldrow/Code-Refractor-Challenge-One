@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header Styles Start */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +43,9 @@ body {
     margin-left: 25px;
 }
 
+/* Header Ends */
+
+/*Utilities Styles Start*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +54,9 @@ a {
 p {
     font-size: 16px;
 }
+/*Utilities Styles End*/
 
+/* Hero Styles Start */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +65,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Hero Styles End */
 
+/*Content Styles  Start*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,7 +83,9 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* Content Styles End */
 
+/* Benefit Styles Start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +144,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* Benefit Styles End*/
 
+/*Services Styles Start*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +200,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Services Styles End*/
 
+/*Footer Styles Start*/
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +213,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*Footer Styles Ends*/
